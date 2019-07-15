@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-    <a href="https://circleci.com/gh/MadaraUchiha-314/text-provider-react-native">
+    <a href="https://circleci.com/gh/intuit/text-provider-react-native">
         <img
-            src="https://img.shields.io/circleci/project/github/MadaraUchiha-314/text-provider-react-native/master.svg?style=flat-square&logo=circleci"
+            src="https://img.shields.io/circleci/project/github/intuit/text-provider-react-native/master.svg?style=flat-square&logo=circleci"
             alt="CircleCI"
         />
     </a>
@@ -22,9 +22,9 @@
             alt="npm"
         />
     </a>
-    <a href="https://github.com/MadaraUchiha-314/text-provider-react-native/graphs/contributors">
+    <a href="https://github.com/intuit/text-provider-react-native/graphs/contributors">
         <img
-            src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square&logo=github"
+            src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square&logo=github"
             alt="All Contributors"
         />
     </a>
@@ -36,7 +36,6 @@
     </a>
 </div>
 
-Text provider is a react-native library to place all the string constants of an application in a single place and use them inside the components in a memory friendly way.
 
 It provides two components:
 
