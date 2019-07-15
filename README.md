@@ -5,7 +5,7 @@
     />
     <h1>text-provider-react-native</h1>
     <p>
-        A component which provides all the string constants using provider pattern
+        A react-native component which provides all the string constants using provider pattern
     </p>
 </div>
 
@@ -36,7 +36,7 @@
     </a>
 </div>
 
-Text provider is a library to place all the string constants of an application in a single place and use them inside the components in a memory friendly way.
+Text provider is a react-native library to place all the string constants of an application in a single place and use them inside the components in a memory friendly way.
 
 It provides two components:
 
