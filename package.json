@@ -1,0 +1,44 @@
+{
+  "name": "text-provider-react-native",
+  "version": "1.0.2",
+  "description": "A component which provides all the string constants using provider pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/ -d lib/",
+    "lint": "eslint src/"
+  },
+  "author": "Rohith R",
+  "contributors": [
+    {
+      "name": "Rohith R",
+      "email": "rohithr31@gmail.com"
+    },
+    {
+      "name": "Riya Kumar",
+      "email": "riyak.1761112@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.2",
+    "babel-preset-react-native": "^4.0.1",
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react": "^16.8.6",
+    "react-native": "^0.60.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "babel": {
+    "presets": [
+      "react-native"
+    ]
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  }
+}
