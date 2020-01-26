@@ -21,14 +21,14 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-eslint": "^10.0.2",
-    "babel-preset-react-native": "^4.0.1",
-    "eslint": "^6.0.1",
-    "eslint-plugin-react": "^7.14.2",
-    "metro-react-native-babel-preset": "^0.55.0",
-    "react": "^16.8.6",
-    "react-native": "^0.60.2"
+    "babel-cli": "6.26.0",
+    "babel-eslint": "10.0.2",
+    "babel-preset-react-native": "4.0.1",
+    "eslint": "6.0.1",
+    "eslint-plugin-react": "7.14.2",
+    "metro-react-native-babel-preset": "0.55.0",
+    "react": "16.8.6",
+    "react-native": "0.60.3"
   },
   "dependencies": {
     "prop-types": "^15.7.2"
