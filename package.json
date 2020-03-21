@@ -1,6 +1,6 @@
 {
   "name": "text-provider-react-native",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A component which provides all the string constants using provider pattern.",
   "main": "index.js",
   "scripts": {
