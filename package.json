@@ -27,8 +27,8 @@
     "eslint": "6.0.1",
     "eslint-plugin-react": "7.14.2",
     "metro-react-native-babel-preset": "0.55.0",
-    "react": "16.8.6",
-    "react-native": "0.60.3"
+    "react": "16.14.0",
+    "react-native": "0.64.2"
   },
   "dependencies": {
     "prop-types": "^15.7.2"
